@@ -218,6 +218,14 @@
     <Compile Include="Migrations\202101241829287_PopulateGenres.Designer.cs">
       <DependentUpon>202101241829287_PopulateGenres.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101310850250_fixMembershipTypes.cs" />
+    <Compile Include="Migrations\202101310850250_fixMembershipTypes.Designer.cs">
+      <DependentUpon>202101310850250_fixMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202101311155209_AddMovieValidation.cs" />
+    <Compile Include="Migrations\202101311155209_AddMovieValidation.Designer.cs">
+      <DependentUpon>202101311155209_AddMovieValidation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -225,6 +233,7 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
+    <Compile Include="Models\Min18YearsIfAMember.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -343,6 +352,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202101241829287_PopulateGenres.resx">
       <DependentUpon>202101241829287_PopulateGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101310850250_fixMembershipTypes.resx">
+      <DependentUpon>202101310850250_fixMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101311155209_AddMovieValidation.resx">
+      <DependentUpon>202101311155209_AddMovieValidation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

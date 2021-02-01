@@ -92,3 +92,5 @@ C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHamme
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.fixMembershipTypes.resources
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.AddMovieValidation.resources
