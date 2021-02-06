@@ -94,3 +94,11 @@ C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHamme
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.fixMembershipTypes.resources
 C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\obj\Debug\Vidly.Migrations.AddMovieValidation.resources
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\AutoMapper.dll
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Web.Http.dll
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\AutoMapper.xml
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Web.Http.xml
+C:\Users\marios\Documents\Tutorials-Projects\Udemy\C#-ASP\APS-5-DotNet\MoshHammedani\Vidly\bin\System.Web.Http.WebHost.xml
